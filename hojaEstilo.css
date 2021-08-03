@@ -1,0 +1,28 @@
+h1,h2,h3,h4{
+    text-align: center;
+}
+
+#biografia{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+html{
+    background-color:#FDDDCA;
+}
+#img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ultimo {
+	text-align: center;
+} 
+#video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
